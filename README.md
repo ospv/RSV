@@ -1,4 +1,4 @@
-# Respiratory Syncytial Virus (RSV) vaccines
+# Respiratory Syncytial Virus (RSV) Vaccine Safety Monitoring
 
 Store analyses performed in the context of RSV mass vaccination in the US using VAERS and the VAERS Analytics system from OpenSourcePV. 
 
