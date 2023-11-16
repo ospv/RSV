@@ -1,6 +1,6 @@
 # Respiratory Syncytial Virus (RSV) Vaccine Safety Monitoring
 
-** Table of contents:**
+**Table of content:**
 - [27OCT23](#27OCT23)
 
 <a id="27OCT23></a>  
