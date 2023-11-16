@@ -1,6 +1,6 @@
 # Respiratory Syncytial Virus (RSV) Vaccine Safety Monitoring
 
-On data lock point of 27 Oct 2023, the [Safety Competitive Analysis Arexvy vs Abrysvo](https://ospv.github.io/RSV/2023_10_27%20-%20Safety%20Competitive%20Analysis%20-%20Arexvy%20vs%20Abrysvo.html) highlighted the follwith the following quantitative signals:  
+On data lock point of 27 Oct 2023, the [Safety Competitive Analysis Arexvy vs Abrysvo](https://ospv.github.io/RSV/2023_10_27%20-%20Safety%20Competitive%20Analysis%20-%20Arexvy%20vs%20Abrysvo.html) report highlighted the follwing quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer):  
 
 | Arexvy | Abrysvo |
 |--------|---------|
