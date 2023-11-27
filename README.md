@@ -2,7 +2,7 @@
 
 ⚠️ Anyone can contribute, provide insight/suggestions or request additional data [here](https://github.com/ospv/RSV/discussions). All you need is to register (anonymously if you want) to github. 
 
-**Table of content:**
+**Table of content of previous analyses:**
 - [27OCT23](#27OCT23)
 
 <a id="27OCT23"></a>  
