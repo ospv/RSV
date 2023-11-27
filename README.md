@@ -1,5 +1,7 @@
 # Respiratory Syncytial Virus (RSV) Vaccine Safety Monitoring
 
+Anyone can contribute and provide insight, suggestions [here](https://github.com/ospv/RSV/discussions)
+
 **Table of content:**
 - [27OCT23](#27OCT23)
 
