@@ -4,8 +4,25 @@
 All you need is to register (anonymously if you want) to github. 
 
 **Table of content of previous analyses:**
+- [29DEC23](#29DEC23)
 - [24NOV23](#24NOV23)
 - [27OCT23](#27OCT23)
+
+<a id="29DEC23"></a>  
+On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
+
+| Arexvy | Abrysvo |
+|--------|---------|
+| [Product use issue](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20use%20issue%20post%20RSV%20(AREXVY).html) | [Syringe issue](https://ospv.github.io/RSV/2023_12_29%20-%20Syringe%20issue%20post%20RSV%20(ABRYSVO).html) |
+| [Exposure during pregnancy](https://ospv.github.io/RSV/2023_12_29%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(AREXVY).html) | [Exposure during pregnancy](https://ospv.github.io/RSV/2023_12_29%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(ABRYSVO).html) |
+| [Product preparation issue](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20preparation%20issue%20post%20RSV%20(AREXVY).html) | [Incorrect route of product administration]|
+| [Product administered to patient of inappropriate age](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20administered%20to%20patient%20of%20inappropriate%20age%20post%20RSV%20(AREXVY).html) | |
+| [Injection site bruising](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20bruising%20post%20RSV%20(AREXVY).html) | |
+| [Wrong product administered](https://ospv.github.io/RSV/2023_12_29%20-%20Wrong%20product%20administered%20post%20RSV%20(AREXVY).html) | |
+| [Atrial fibrillation](https://ospv.github.io/RSV/2023_11_24%20-%20Atrial%20fibrillation%20post%20RSV%20(AREXVY).html) | |
+| [Needle issue](https://ospv.github.io/RSV/2023_12_29%20-%20Needle%20issue%20post%20RSV%20(AREXVY).html) | |
+| [Peripheral swelling](https://ospv.github.io/RSV/2023_12_29%20-%20Peripheral%20swelling%20post%20RSV%20(AREXVY).html) | |
+| [Injection site pruritus](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20pruritus%20post%20RSV%20(AREXVY).html) | |
 
 <a id="24NOV23"></a>  
 On data lock point of 24 Nov 2023, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
