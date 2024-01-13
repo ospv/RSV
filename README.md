@@ -17,8 +17,8 @@ On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy
 | [Exposure during pregnancy](https://ospv.github.io/RSV/2023_12_29%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(AREXVY).html) | [Exposure during pregnancy](https://ospv.github.io/RSV/2023_12_29%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(ABRYSVO).html) |
 | [Product preparation issue](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20preparation%20issue%20post%20RSV%20(AREXVY).html) | [Device breakage (bug in history)](https://ospv.github.io/RSV/2023_12_29%20-%20Device%20breakage%20post%20RSV%20(ABRYSVO)) |
 | [Product administered to patient of inappropriate age](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20administered%20to%20patient%20of%20inappropriate%20age%20post%20RSV%20(AREXVY).html) | [Device connection issue](https://ospv.github.io/RSV/2023_12_29%20-%20Device%20connection%20issue%20post%20RSV%20(ABRYSVO).html) |
-| [Injection site bruising](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20bruising%20post%20RSV%20(AREXVY).html) | |
-| [Wrong product administered](https://ospv.github.io/RSV/2023_12_29%20-%20Wrong%20product%20administered%20post%20RSV%20(AREXVY).html) | |
+| [Injection site bruising](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20bruising%20post%20RSV%20(AREXVY).html) | [Device leakage](https://ospv.github.io/RSV/2023_12_29%20-%20Device%20leakage%20post%20RSV%20(ABRYSVO).html) |
+| [Wrong product administered](https://ospv.github.io/RSV/2023_12_29%20-%20Wrong%20product%20administered%20post%20RSV%20(AREXVY).html) | [Dysstasia](https://ospv.github.io/RSV/2023_12_29%20-%20Dysstasia%20post%20RSV%20(ABRYSVO).html) |
 | [Atrial fibrillation](https://ospv.github.io/RSV/2023_11_24%20-%20Atrial%20fibrillation%20post%20RSV%20(AREXVY).html) | |
 | [Needle issue](https://ospv.github.io/RSV/2023_12_29%20-%20Needle%20issue%20post%20RSV%20(AREXVY).html) | |
 | [Peripheral swelling](https://ospv.github.io/RSV/2023_12_29%20-%20Peripheral%20swelling%20post%20RSV%20(AREXVY).html) | |
