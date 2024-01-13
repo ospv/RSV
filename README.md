@@ -19,10 +19,16 @@ On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy
 | [Product administered to patient of inappropriate age](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20administered%20to%20patient%20of%20inappropriate%20age%20post%20RSV%20(AREXVY).html) | [Device connection issue](https://ospv.github.io/RSV/2023_12_29%20-%20Device%20connection%20issue%20post%20RSV%20(ABRYSVO).html) |
 | [Injection site bruising](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20bruising%20post%20RSV%20(AREXVY).html) | [Device leakage](https://ospv.github.io/RSV/2023_12_29%20-%20Device%20leakage%20post%20RSV%20(ABRYSVO).html) |
 | [Wrong product administered](https://ospv.github.io/RSV/2023_12_29%20-%20Wrong%20product%20administered%20post%20RSV%20(AREXVY).html) | [Dysstasia](https://ospv.github.io/RSV/2023_12_29%20-%20Dysstasia%20post%20RSV%20(ABRYSVO).html) |
-| [Atrial fibrillation](https://ospv.github.io/RSV/2023_11_24%20-%20Atrial%20fibrillation%20post%20RSV%20(AREXVY).html) | |
-| [Needle issue](https://ospv.github.io/RSV/2023_12_29%20-%20Needle%20issue%20post%20RSV%20(AREXVY).html) | |
-| [Peripheral swelling](https://ospv.github.io/RSV/2023_12_29%20-%20Peripheral%20swelling%20post%20RSV%20(AREXVY).html) | |
-| [Injection site pruritus](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20pruritus%20post%20RSV%20(AREXVY).html) | |
+| [Atrial fibrillation](https://ospv.github.io/RSV/2023_11_24%20-%20Atrial%20fibrillation%20post%20RSV%20(AREXVY).html) | [Muscular weakness](https://ospv.github.io/RSV/2023_12_29%20-%20Muscular%20weakness%20post%20RSV%20(ABRYSVO).html) |
+| [Needle issue](https://ospv.github.io/RSV/2023_12_29%20-%20Needle%20issue%20post%20RSV%20(AREXVY).html) | [Premature delivery](https://ospv.github.io/RSV/2023_12_29%20-%20Premature%20delivery%20post%20RSV%20(ABRYSVO).html) |
+| [Peripheral swelling](https://ospv.github.io/RSV/2023_12_29%20-%20Peripheral%20swelling%20post%20RSV%20(AREXVY).html) | [Premature labour](https://ospv.github.io/RSV/2023_12_29%20-%20Premature%20labour%20post%20RSV%20(ABRYSVO).html) |
+| [Injection site pruritus](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20pruritus%20post%20RSV%20(AREXVY).html) | |   
+| [Exposure via skin contact](https://ospv.github.io/RSV/2023_12_29%20-%20Exposure%20via%20skin%20contact%20post%20RSV%20(AREXVY).html) | | 
+| [Extra dose administered](https://ospv.github.io/RSV/2023_12_29%20-%20Extra%20dose%20administered%20post%20RSV%20(AREXVY).html) | |
+| [Immunisation reaction](https://ospv.github.io/RSV/2023_12_29%20-%20Immunisation%20reaction%20post%20RSV%20(AREXVY).html) | |
+| [Injected limb mobility decreased](https://ospv.github.io/RSV/2023_12_29%20-%20Injected%20limb%20mobility%20decreased%20post%20RSV%20(AREXVY).html) | |
+| [Injection site nodule](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20nodule%20post%20RSV%20(AREXVY).html) | |
+| [Productive cough](https://ospv.github.io/RSV/2023_12_29%20-%20Productive%20cough%20post%20RSV%20(AREXVY).html) | |
 
 <a id="24NOV23"></a>  
 On data lock point of 24 Nov 2023, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
