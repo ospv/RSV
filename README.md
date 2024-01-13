@@ -15,7 +15,7 @@ On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy
 |--------|---------|
 | [Product use issue](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20use%20issue%20post%20RSV%20(AREXVY).html) | [Syringe issue](https://ospv.github.io/RSV/2023_12_29%20-%20Syringe%20issue%20post%20RSV%20(ABRYSVO).html) |
 | [Exposure during pregnancy](https://ospv.github.io/RSV/2023_12_29%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(AREXVY).html) | [Exposure during pregnancy](https://ospv.github.io/RSV/2023_12_29%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(ABRYSVO).html) |
-| [Product preparation issue](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20preparation%20issue%20post%20RSV%20(AREXVY).html) | [Incorrect route of product administration]|
+| [Product preparation issue](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20preparation%20issue%20post%20RSV%20(AREXVY).html) | [Device breakage](https://ospv.github.io/RSV/2023_12_29%20-%20Device%20breakage%20post%20RSV%20(ABRYSVO)) |
 | [Product administered to patient of inappropriate age](https://ospv.github.io/RSV/2023_12_29%20-%20Product%20administered%20to%20patient%20of%20inappropriate%20age%20post%20RSV%20(AREXVY).html) | |
 | [Injection site bruising](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20bruising%20post%20RSV%20(AREXVY).html) | |
 | [Wrong product administered](https://ospv.github.io/RSV/2023_12_29%20-%20Wrong%20product%20administered%20post%20RSV%20(AREXVY).html) | |
