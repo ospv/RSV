@@ -14,9 +14,9 @@ On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy
 
 | Arexvy | Abrysvo |
 |--------|---------|
-| [Product use issue](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Product%20use%20issue.html) | [Syringe issue](https://ospv.github.io/RSV/2024_01_26%20-%20Syringe%20issue%20post%20RSV%20(ABRYSVO).html) |
-| [Exposure during pregnancy](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Exposure%20during%20pregnancy.html) | [Exposure during pregnancy](https://ospv.github.io/RSV/2024_01_26%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(ABRYSVO).html) |
-| [Product preparation issue](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Product%20preparation%20issue.html) | [Device breakage](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(ABRYSVO)%20-%20Device%20breakage.html) |
+| [Product use issue](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Product%20use%20issue.html) | [Syringe issue](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(ABRYSVO)%20-%20Syringe%20issue.html) |
+| [Exposure during pregnancy](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Exposure%20during%20pregnancy.html) | [Exposure during pregnancy](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(ABRYSVO)%20-%20Exposure%20during%20pregnancy%20post%20RSV%20(ABRYSVO).html) |
+| [Product preparation issue](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Product%20preparation%20issue.html) | [Device breakage](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(ABRYSVO)%20-%20RSV%20(ABRYSVO)%20-%20Device%20breakage.html) |
 | [Product administered to patient of inappropriate age](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Product%20administered%20to%20patient%20of%20inappropriate%20age.html) | [Device connection issue](https://ospv.github.io/RSV/2024_01_26%20-%20Device%20connection%20issue%20post%20RSV%20(ABRYSVO).html) |
 | [Injection site bruising](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Injection%20site%20bruising.html) | [Device leakage](https://ospv.github.io/RSV/2024_01_26%20-%20Device%20leakage%20post%20RSV%20(ABRYSVO).html) |
 | [Wrong product administered](https://ospv.github.io/RSV/2024_01_26%20-%20RSV%20(AREXVY)%20-%20Wrong%20product%20administered.html) | [Dysstasia](https://ospv.github.io/RSV/2024_01_26%20-%20Dysstasia%20post%20RSV%20(ABRYSVO).html) |
