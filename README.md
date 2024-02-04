@@ -25,11 +25,18 @@ On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy
 | [Peripheral swelling](https://ospv.github.io/RSV/2024_01_26%20-%20Peripheral%20swelling%20post%20RSV%20(AREXVY).html) | [Premature labour](https://ospv.github.io/RSV/2024_01_26%20-%20Premature%20labour%20post%20RSV%20(ABRYSVO).html) |
 | [Injection site pruritus](https://ospv.github.io/RSV/2024_01_26%20-%20Injection%20site%20pruritus%20post%20RSV%20(AREXVY).html) | [Product container issue](https://ospv.github.io/RSV/2024_01_26%20-%20Product%20container%20issue%20post%20RSV%20(AREXVY).html) |   
 | [Exposure via skin contact](https://ospv.github.io/RSV/2024_01_26%20-%20Exposure%20via%20skin%20contact%20post%20RSV%20(AREXVY).html) | [Preterm premature rupture of membranes](https://ospv.github.io/RSV/2024_01_26%20-%20Preterm%20premature%20rupture%20of%20membranes%20post%20RSV%20(AREXVY).html) | 
-| [Extra dose administered](https://ospv.github.io/RSV/2023_12_29%20-%20Extra%20dose%20administered%20post%20RSV%20(AREXVY).html) | [Guillain-Barre syndrome](https://ospv.github.io/RSV/2024_01_26%20-%20Guillain-Barre%20syndrome%20post%20RSV%20(AREXVY).html) |
-| [Immunisation reaction](https://ospv.github.io/RSV/2023_12_29%20-%20Immunisation%20reaction%20post%20RSV%20(AREXVY).html) | |
-| [Injected limb mobility decreased](https://ospv.github.io/RSV/2023_12_29%20-%20Injected%20limb%20mobility%20decreased%20post%20RSV%20(AREXVY).html) | |
-| [Injection site nodule](https://ospv.github.io/RSV/2023_12_29%20-%20Injection%20site%20nodule%20post%20RSV%20(AREXVY).html) | |
-| [Productive cough](https://ospv.github.io/RSV/2023_12_29%20-%20Productive%20cough%20post%20RSV%20(AREXVY).html) | |
+| [Extra dose administered](https://ospv.github.io/RSV/2024_01_26%20-%20Extra%20dose%20administered%20post%20RSV%20(AREXVY).html) | [Guillain-Barre syndrome](https://ospv.github.io/RSV/2024_01_26%20-%20Guillain-Barre%20syndrome%20post%20RSV%20(AREXVY).html) |
+| [Immunisation reaction](https://ospv.github.io/RSV/2024_01_26%20-%20Immunisation%20reaction%20post%20RSV%20(AREXVY).html) | [Caesarean section](https://ospv.github.io/RSV/2024_01_26%20-%20Caesarean%20section%20post%20RSV%20(ABRYSVO).html) |
+| [Injected limb mobility decreased](https://ospv.github.io/RSV/2024_01_26%20-%20Injected%20limb%20mobility%20decreased%20post%20RSV%20(AREXVY).html) | |
+| [Injection site nodule](https://ospv.github.io/RSV/2024_01_26%20-%20Injection%20site%20nodule%20post%20RSV%20(AREXVY).html) | |
+| [Productive cough](https://ospv.github.io/RSV/2024_01_26%20-%20Productive%20cough%20post%20RSV%20(AREXVY).html) | |
+| [Sleep disorder](https://ospv.github.io/RSV/2024_01_26%20-%20Sleep%20disorder%20post%20RSV%20(AREXVY).html) | |
+| [Respiratory syncytial virus infection](https://ospv.github.io/RSV/2024_01_26%20-%20Respiratory%20syncytial%20virus%20infection%20post%20RSV%20(AREXVY).html) | |
+| [Rash](https://ospv.github.io/RSV/2024_01_26%20-%20Rash%20post%20RSV%20(AREXVY).html) | |
+| [Product preparation error](https://ospv.github.io/RSV/2024_01_26%20-%20Product%20preparation%20error%20post%20RSV%20(AREXVY).html) | |
+| [Intercepted product prescribing error](https://ospv.github.io/RSV/2024_01_26%20-%20Intercepted%20product%20prescribing%20error%20post%20RSV%20(AREXVY).html) | |
+| [Contusion](https://ospv.github.io/RSV/2024_01_26%20-%20Contusion%20post%20RSV%20(AREXVY).html) | |
+| [Brain fog](https://ospv.github.io/RSV/2024_01_26%20-%20Brain%20fog%20post%20RSV%20(AREXVY).html) | |
 
 <a id="29DEC23"></a>  
 On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
