@@ -9,8 +9,8 @@ All you need is to register (anonymously if you want) to github.
 - [24NOV23](#24NOV23)
 - [27OCT23](#27OCT23)
 
-<a id="29DEC23"></a>  
-On data lock point of 29 Dec 2023, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
+<a id="26JAN24"></a>  
+On data lock point of 26 Jan 2024, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
 
 | Arexvy | Abrysvo |
 |--------|---------|
