@@ -4,10 +4,38 @@
 All you need is to register (anonymously if you want) to github. 
 
 **Table of content of previous analyses:**
+- [23FEB24](#23FEB24)
 - [26JAN24](#26JAN24)
 - [29DEC23](#29DEC23)
 - [24NOV23](#24NOV23)
 - [27OCT23](#27OCT23)
+
+<a id="23FEB24"></a>  
+On data lock point of 23 Feb 2024, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
+
+| Arexvy | Abrysvo |
+|--------|---------|
+| [Product use issue](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Product%20use%20issue.html) | [Syringe issue](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Syringe%20issue.html) |
+| [Exposure during pregnancy](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Exposure%20during%20pregnancy.html) | [Exposure during pregnancy](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Exposure%20during%20pregnancy.html) |
+| [Product preparation issue](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Product%20preparation%20issue.html) | [Device breakage](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Device%20breakage.html) |
+| [Product administered to patient of inappropriate age](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Product%20administered%20to%20patient%20of%20inappropriate%20age.html) | [Device connection issue](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Device%20connection%20issue.html) |
+| [Injection site bruising](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Injection%20site%20bruising.html) | [Device leakage](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Device%20leakage.html) |
+| [Wrong product administered](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Wrong%20product%20administered.html) | [Guillain-Barre syndrome](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Guillain-Barre%20syndrome.html) |
+| [Atrial fibrillation](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Atrial%20fibrillation.html) | [Preterm premature rupture of membranes](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Preterm%20premature%20rupture%20of%20membranes.html) |
+| [Needle issue](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Needle%20issue.html) | [Premature delivery](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Premature%20delivery.html) |
+| [Cough](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Cough.html) | [Premature labour](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(ABRYSVO)%20-%20Premature%20labour.html) |
+| [Injection site pruritus](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Injection%20site%20pruritus.html) |  |   
+| [Exposure via skin contact](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Exposure%20via%20skin%20contact.html) |  | 
+| [Extra dose administered](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Extra%20dose%20administered.html) |  |
+| [Injected limb mobility decreased](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Injected%20limb%20mobility%20decreased.html) | |
+| [Injection site nodule](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Injection%20site%20nodule.html) | |
+| [Productive cough](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Productive%20cough.html) | |
+| [Sleep disorder](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Sleep%20disorder.html) | |
+| [Respiratory syncytial virus infection](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Respiratory%20syncytial%20virus%20infection.html) | |
+| [Rash](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Rash.html) | |
+| [Product preparation error](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Product%20preparation%20error.html) | |
+| [Intercepted product prescribing error](https://ospv.github.io/RSV/2024_02_23%20-%20RSV%20(AREXVY)%20-%20Intercepted%20product%20prescribing%20error.html) | |
+
 
 <a id="26JAN24"></a>  
 On data lock point of 26 Jan 2024, the following quantitative signals for Arexvy (GSK) and Abrysvo (Pfizer) were detected:  
